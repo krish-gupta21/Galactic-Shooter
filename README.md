@@ -52,7 +52,7 @@ Ensure you have the following installed:
 1. **Start the Game**:
    - Run the script using the command: `python galacticshooter.py`.
 2. **Control the Spaceship**:
-   - Use your **open palm** to move ship 🚀 any direction.
+   - Use your **open palm** to move ship 🚀 in any direction.
 3. **Shoot**:
    - Join **index** and **middle** fingers to shoot the enemy.
 4. **Collect Power-ups**:
