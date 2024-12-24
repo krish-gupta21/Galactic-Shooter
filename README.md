@@ -48,20 +48,30 @@ Ensure you have the following installed:
 ## 🎮 Game Manual
 
 ### How to Play:
+
+ **Move the spaceship**: Use your **hand gestures** to control the spaceship’s movement.
+- **Shoot**: Raise your hand to fire the spaceship's laser.
+- **Collect Power-ups**: Move your hand towards the power-up items to collect them.
+
 1. **Start the Game**:
-   - Run the script using the command: `python pingpong.py`.
-2. **Control the Paddles**:
-   - Move your **left hand** to control the **left paddle**.
-   - Move your **right hand** to control the **right paddle**.
+   - Run the script using the command: `python galacticshooter.py`.
+2. **Control the Spaceship**:
+   - Use your **open palm** to move ship 🚀 any direction.
+3. **Shoot**:
+   - Join **index** and **middle** fingers to shoot the enemy.
+4. **Collect Power-ups**:
+   - Move your palm towards the powerups to collect them.
 3. **Objective**:
-   - Prevent the ball from going out of bounds by hitting it with the paddles.
+   - Shoot as many enemy ships as possible and avoid crashing into them.
 4. **Scoring**:
-   - Earn points every time the ball hits a paddle.
+   - Earn points every time you shoot enemy ship.
 5. **Game Over**:
-   - The game ends if the ball goes out of bounds. Click restart button to reatart the game.
+   - The game ends if you run out of lives. Click restart button to reatart the game.
 
 ### 📝 Tip:
 Play in a well-lit environment for better hand detection accuracy.
 
+---
 
+Enjoy the game, and may your galactic adventure be filled with victories! 🚀
    
