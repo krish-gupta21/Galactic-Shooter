@@ -9,7 +9,7 @@ pygame.init()
 # Screen dimensions and setup
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("HandStar: Galactic Shooter")
+pygame.display.set_caption("Galactic Shooter")
 
 # Colors
 WHITE = (255, 255, 255)
