@@ -49,10 +49,6 @@ Ensure you have the following installed:
 
 ### How to Play:
 
- **Move the spaceship**: Use your **hand gestures** to control the spaceship’s movement.
-- **Shoot**: Raise your hand to fire the spaceship's laser.
-- **Collect Power-ups**: Move your hand towards the power-up items to collect them.
-
 1. **Start the Game**:
    - Run the script using the command: `python galacticshooter.py`.
 2. **Control the Spaceship**:
